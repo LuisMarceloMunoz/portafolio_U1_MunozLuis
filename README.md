@@ -20,3 +20,6 @@ Este proyecto corrige, organiza y documenta los datos de un ensayo heredado, mej
 ## Herramientas utilizadas
 * Microsoft Excel / Word
 * Asistente de IA (Gemini 3.1 Pro) para revisión de estructura y redaccion.
+
+Si escribo esto aca que es un branch se supone que no sale en el main????
+
